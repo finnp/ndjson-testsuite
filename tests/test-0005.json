@@ -1,0 +1,5 @@
+{
+  "description": "Not closed JSON object",
+  "error": true,
+  "errorMessage": "Unexpected end of input"
+}

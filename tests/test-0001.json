@@ -1,0 +1,13 @@
+{
+  "description": "Accept \n as seperator",
+  "delimiter": "\n",
+  "error": false,
+  "values": [
+    {"a": "a"},
+    {"a": "b"},
+    {"a": "d"},
+    {"a": "d"},
+    {"a": "e"},
+    {"a": "f"}
+  ]
+}
